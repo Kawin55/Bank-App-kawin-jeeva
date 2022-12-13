@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.img {
+  width: 300px;
+}
+#users {
+  width: 1000px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  border: 1px solid brown;
+}
+.data {
+  border: 1px solid brown;
+}
